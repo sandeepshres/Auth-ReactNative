@@ -38,7 +38,6 @@ class LoginForm extends Component {
                 </Button>
         );
     }
-
     render() {
         return (
             <Card>
